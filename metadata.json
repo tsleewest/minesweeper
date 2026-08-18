@@ -1,0 +1,6 @@
+{
+  "name": "Minesweeper",
+  "description": "Classic 9x9 Minesweeper game with 10 mines, timer, flag counter, and win celebration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
